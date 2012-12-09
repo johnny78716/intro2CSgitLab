@@ -1,4 +1,11 @@
 This is homework for git.
-Please replace bXXXXXXXX with your own student ID number at below, and as well type your name at the end of the collon.
+1. Please replace "bXXXXXXXX" with your own student ID number, and as well type your name at the end of the colon.
+2. Rename the file to your student ID before commiting to the server. (You won't get any points if you didn't do this step!)
+
 
 Hi, my studnet id is bXXXXXXXX and my name is:
+
+
+NOTICE: Remember to commit the change to the original repository again.
+The deadline for this homework is due on the 17th of December at 23:59.
+No late submissions are allowed!
