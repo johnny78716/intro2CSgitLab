@@ -1,9 +1,15 @@
 This is homework for git.
-1. Please replace "bXXXXXXXX" with your own student ID number, and as well type your name at the end of the colon.
-2. Rename the file to your student ID before commiting to the server. (You won't get any points if you didn't do this step!)
+1. Copy and paste "homework.txt" into the same folder with different name. (Ex: homework_rename)
+2. Open the renamed file and replace "bXXXXXXXX" with your own student ID number at below where says "\\change here".
+3. Type your name at the end of the colon, then exit and save changes.
+4. Rename the file to your student ID. (Ex: b00000001. You won't get any points if you don't do this step correctly!)
+3. Create a folder with your own student ID in "hw_submission" folder, then put your homework file into the folder you created.
+4. Commit changes and push updates to the git server.
 
 
+\\change here
 Hi, my studnet id is bXXXXXXXX and my name is:
+
 
 
 NOTICE: Remember to commit the change to the original repository again.
