@@ -7,7 +7,8 @@ This is homework for git.
 4. Commit changes and push updates to the git server.
 
 
-\\change here
+\\change here again
+\\add more lines
 Hi, my studnet id is bXXXXXXXX and my name is:
 \\add lines below
 
