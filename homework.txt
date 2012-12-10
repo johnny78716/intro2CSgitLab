@@ -8,7 +8,7 @@ This is homework for git.
 
 
 \\change here again
-\\add more lines
+\\change here
 Hi, my studnet id is bXXXXXXXX and my name is:
 \\add lines below
 
